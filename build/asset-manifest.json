@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2b644f6c.js",
+    "static/media/10.png": "/static/media/10.0c968fd49b1269fa5145.png",
+    "static/media/6.jpeg": "/static/media/6.31683668058ecda25a60.jpeg",
+    "static/media/11.jpeg": "/static/media/11.5bac0eca9a6397a9d69f.jpeg",
+    "static/media/3.jpeg": "/static/media/3.5bac0eca9a6397a9d69f.jpeg",
+    "static/media/9.jpeg": "/static/media/9.0665fc7585c8fdbfdd12.jpeg",
+    "static/media/8.jpeg": "/static/media/8.83b3f81494ae7804cfdd.jpeg",
+    "static/media/body-image.jpg": "/static/media/body-image.98840dbcd7fcd0908baa.jpg",
+    "static/media/12.jpeg": "/static/media/12.289aaf88b9eb5646f1ea.jpeg",
+    "static/media/4.jpeg": "/static/media/4.594943364e887595cb07.jpeg",
+    "static/media/2.jpeg": "/static/media/2.2f7cd5e36433c54f84dc.jpeg",
+    "static/media/Smallpig02.png": "/static/media/Smallpig02.8cdb7539e2953d3dbb98.png",
+    "static/media/7.jpeg": "/static/media/7.f65ce0ad13da85b2614f.jpeg",
+    "static/media/Bigpig02.png": "/static/media/Bigpig02.0aacc8d274035a52cc28.png",
+    "static/media/1.jpeg": "/static/media/1.b6fe80a2e93dd4449a9e.jpeg",
+    "static/media/Bigpig01.png": "/static/media/Bigpig01.c29a3a67e16cb2a671e2.png",
+    "static/media/Bigpig04.png": "/static/media/Bigpig04.f278e10125034402e20a.png",
+    "static/media/Smallpig01.png": "/static/media/Smallpig01.d6b244f75778ebee3cdc.png",
+    "static/media/5.jpeg": "/static/media/5.d74b267e4ecfc021bd51.jpeg",
+    "static/media/Bigpig03.png": "/static/media/Bigpig03.72dce364ddda7352c482.png",
+    "static/media/goSkiing.jpeg": "/static/media/goSkiing.7a0bdfa3ba1b93f16b92.jpeg",
+    "static/media/watchSnow.jpeg": "/static/media/watchSnow.ee19a88123af3aea8da5.jpeg",
+    "static/media/northernEurope.jpeg": "/static/media/northernEurope.464aa94b4866944c6a00.jpeg",
+    "static/media/takePhoto.jpeg": "/static/media/takePhoto.aea5bce62d1ddf02925b.jpeg",
+    "index.html": "/index.html",
+    "main.2b644f6c.js.map": "/static/js/main.2b644f6c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b644f6c.js"
+  ]
+}
