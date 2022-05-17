@@ -33,7 +33,7 @@ export default function Register() {
 
     function handleClick(e) {
         e.preventDefault()
-        axios.post("https://piggyweb.herokuapp.com/register07", user);
+        axios.post("https://piggy-web.herokuapp.com/register07", user);
     };
 
 

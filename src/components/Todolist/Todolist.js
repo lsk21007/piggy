@@ -42,7 +42,7 @@ export default function Todolist({ auth }) {
     const [text, setText] = useState({});   //onChange
 
     const getTodolist = async () => {
-        const response = await fetch("https://piggyweb.herokuapp.com/Todolist");
+        const response = await fetch("https://piggy-web.herokuapp.com/Todolist");
         const Todolist = await response.json();
         setSubmit(Todolist)
     }

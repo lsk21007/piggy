@@ -65,7 +65,7 @@ export default function LogIn({ uploadAuth }) {
 
     function handleClick(e) {
         e.preventDefault()
-        axios.post("https://piggyweb.herokuapp.com/login", user).then((res) => setAuth(res.data));
+        axios.post("https://piggy-web.herokuapp.com/login", user).then((res) => setAuth(res.data));
     };
 
     useEffect(() => {
