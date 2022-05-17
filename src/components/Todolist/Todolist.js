@@ -59,7 +59,7 @@ export default function Todolist({ auth }) {
         if (auth === 'True') {
             if (text) {
                 const newText = { text: text }
-                axios.post("https://piggyweb.herokuapp.com/update", newText)
+                axios.post("https://piggy-web.herokuapp.com/update", newText)
                 setSubmit(prev => [...prev, text]);
                 setText({ text: '' });
             } else {
@@ -73,7 +73,7 @@ export default function Todolist({ auth }) {
     const handleSubmit = (id) => {
         if (auth === 'True') {
             const deleteItem = submit.filter((i, index) => index === id);
-            axios.post('https://piggyweb.herokuapp.com/deleteItem', deleteItem);
+            axios.post('https://piggy-web.herokuapp.com/deleteItem', deleteItem);
             setSubmit((prev) => prev.filter((i, index) => index !== id));
         } else {
             setOpen(true);

@@ -25,6 +25,7 @@ function Setup() {
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Index auth={authorize} />} />
+          <Route path="/piggy" element={<Index auth={authorize} />} />
           <Route path="/login" element={<Login uploadAuth={handleAuth} />} />
           <Route path="/Todolist" element={<Todolist auth={authorize} />} />
           <Route path="/watchsnow" element={<WatchSnow />} />
