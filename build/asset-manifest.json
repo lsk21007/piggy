@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.2b644f6c.js",
+    "main.js": "/static/js/main.befee70e.js",
     "static/media/10.png": "/static/media/10.0c968fd49b1269fa5145.png",
     "static/media/6.jpeg": "/static/media/6.31683668058ecda25a60.jpeg",
     "static/media/11.jpeg": "/static/media/11.5bac0eca9a6397a9d69f.jpeg",
@@ -25,9 +25,9 @@
     "static/media/northernEurope.jpeg": "/static/media/northernEurope.464aa94b4866944c6a00.jpeg",
     "static/media/takePhoto.jpeg": "/static/media/takePhoto.aea5bce62d1ddf02925b.jpeg",
     "index.html": "/index.html",
-    "main.2b644f6c.js.map": "/static/js/main.2b644f6c.js.map"
+    "main.befee70e.js.map": "/static/js/main.befee70e.js.map"
   },
   "entrypoints": [
-    "static/js/main.2b644f6c.js"
+    "static/js/main.befee70e.js"
   ]
 }

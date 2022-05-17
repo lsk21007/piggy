@@ -58,7 +58,7 @@ export default function TextMobileStepper({ auth }) {
   // }, [])
 
   const getData = async () => {
-    const response = await fetch("https://piggyweb.herokuapp.com/")
+    const response = await fetch("http://localhost:3001/")
     const users = await response.json()
     setNotes(users)
   }

@@ -60,8 +60,8 @@ function Section() {
     const countDownDate = new Date("Mar 28, 2022").getTime();
     const now = new Date().getTime();
     const distance = countDownDate - now;
-    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24)) < 0 ? 0 : Math.floor(distance / (1000 * 60 * 60 * 24))
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)) < 0 ? 0 : Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
     return <Box className={classes.container}>
         <Box className={classes.tomeetyou}><div>&ensp;</div></Box>
         <Box className={classes.tomeetyou}><div>&ensp;</div></Box>
