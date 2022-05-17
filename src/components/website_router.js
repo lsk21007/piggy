@@ -32,7 +32,7 @@ function Setup() {
           <Route path="/takephotos" element={<TakePhotos />} />
           <Route path="/northernEurope" element={<NorthernEurope />} />
           <Route path="/Video" element={<Video auth={authorize} uploadAuth={handleAuth} />} />
-          {/* <Route path="/PigFamily" element={<PigFamily />} /> */}
+          <Route path="/PigFamily" element={<PigFamily />} />
           <Route path="/register07" element={<Register />} />
         </Routes>
       </ThemeProvider>
